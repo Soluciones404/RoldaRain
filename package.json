@@ -1,0 +1,15 @@
+{
+  "name": "RoldaRain",
+  "version": "0.0.1",
+  "description": "Lluvia en Roldanillo 26 de Mayo de 2020",
+  "main": "index.js",
+  "author": "Julián Gálvez <julian@soluciones404.com.co>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "moment-timezone": "^0.5.31"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
