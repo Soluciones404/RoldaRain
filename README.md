@@ -32,28 +32,28 @@ Nuestra conclusión más cercana a la realida es que en Roldanillo, entre las 4:
 
 ### Todos los cálculos
 
-#####Usando todos los datos sin incluir datos ingresados "manualmente".
+##### Usando todos los datos sin incluir datos ingresados "manualmente".
 
 *Minutos lluvia:* **146**<br/>
 *Promedio:* **5.88 mm/h**<br/>
 *Milimetros:* **14.30**<br/>
 *Litros por metro cuadrado:* **14.30**
 
-#####Usando los datos del rango más alto de medidas (a partir de 10 mm/h) y sin incluir los datos ingresandos "manuales".
+##### Usando los datos del rango más alto de medidas (a partir de 10 mm/h) y sin incluir los datos ingresandos "manuales".
 
 *Minutos lluvia:* **92**<br/>
 *Promedio:* **14.89 mm/h**<br/>
 *Milimetros:* **22.83**<br/>
 *Litros por metro cuadrado:* **22.83**
 
-#####Usando todos los datos incluyendo los datos ingresados "manualmente".
+##### Usando todos los datos incluyendo los datos ingresados "manualmente".
 
 *Minutos lluvia:* **146**<br/>
 *Promedio:* **14.43 mm/h**<br/>
 *Milimetros:* **35.12**<br/>
 *Litros por metro cuadrado:* **35.12**
 
-#####Usando los datos del rango más alto de medidas (a partir de 10 mm/h) e incluyendo los datos ingresados manualmente.
+##### Usando los datos del rango más alto de medidas (a partir de 10 mm/h) e incluyendo los datos ingresados manualmente.
 
 *Minutos lluvia:* **92**<br/>
 *Promedio:* **23.42 mm/h**<br/>
@@ -68,7 +68,7 @@ Si alguien quiere ayudarnos a mejorar nuestros cálculos, bienvenido. Puede hace
 
 No olviden que pueden descargar Maclic siguiendo este enlace: [https://l.maclic.co/get](https://l.maclic.co/get). O pueden acceder a la versión Web: [https://web.maclic.co](https://web.maclic.co).
 
-![Captura de pantalla de Maclic](./assets/maclic.jpeg)
+![Captura de pantalla de Maclic](./assets/maclic.jpeg | width=200)
 
 ### Fotos de los instrumentos de la estación
 
