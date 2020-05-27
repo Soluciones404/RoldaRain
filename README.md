@@ -68,7 +68,7 @@ Si alguien quiere ayudarnos a mejorar nuestros cálculos, bienvenido. Puede hace
 
 No olviden que pueden descargar Maclic siguiendo este enlace: [https://l.maclic.co/get](https://l.maclic.co/get). O pueden acceder a la versión Web: [https://web.maclic.co](https://web.maclic.co).
 
-![Captura de pantalla de Maclic](./assets/maclic.jpeg | width=200)
+![Captura de pantalla de Maclic](./assets/maclic.jpeg =200x)
 
 ### Fotos de los instrumentos de la estación
 
