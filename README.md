@@ -28,7 +28,7 @@ Decidimos hacer unas aproximaciones tomando en cuenta la curva ascendente y rell
 
 ## Los Resultados
 
-Nuestra conclusión más cercana a la realida es que en Roldanillo, entre las 4:54pm y las 7:20pm del 26 de mayo de 2020, es decir durante 146 minutos de lluvia, en promedio 14.43 mm/h (milímetros por hora), lo cual significa que llovieron aproximadamente: 35.12mm o lo que es lo mismo 35.12 litros por metro cuadrado.
+Nuestra conclusión más cercana a la realidad es que en Roldanillo, entre las 4:54pm y las 7:20pm del 26 de mayo de 2020, es decir durante 146 minutos de lluvia, en promedio 14.43 mm/h (milímetros por hora), lo cual significa que llovieron aproximadamente: 35.12mm o lo que es lo mismo 35.12 litros por metro cuadrado.
 
 ### Todos los cálculos
 
