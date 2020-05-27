@@ -30,35 +30,47 @@ Decidimos hacer unas aproximaciones tomando en cuenta la curva ascendente y rell
 
 Nuestra conclusión más cercana a la realidad es que en Roldanillo, entre las 4:54pm y las 7:20pm del 26 de mayo de 2020, es decir durante 146 minutos de lluvia, en promedio 14.43 mm/h (milímetros por hora), lo cual significa que llovieron aproximadamente: 35.12mm o lo que es lo mismo 35.12 litros por metro cuadrado.
 
+### Bonus
+
+Si tomamos este dato final y además el área urbana de Roldanillo, que de acuerdo con este mapa (generado con [esta herramienta](https://www.daftlogic.com/projects-google-maps-area-calculator-tool.htm)) es de 3.54 km2 (3.541.167,38 m2), podemos calcular que en esta área llovieron 124.365.798,38 litros de agua.
+
+![Mápa área urbana Roldanillo](./assets/area.png)
+
+Esta cantidad de agua es suficiente para llenar 36,8 piscinas olímpicas (3.375.000 litros aproximadamente cada una).
+
 ### Todos los cálculos
 
-##### Usando todos los datos sin incluir datos ingresados "manualmente".
+#### Usando todos los datos sin incluir datos ingresados "manualmente".
 
 *Minutos lluvia:* **146**<br/>
 *Promedio:* **5.88 mm/h**<br/>
 *Milímetros:* **14.30**<br/>
 *Litros por metro cuadrado:* **14.30**
 
-##### Usando los datos del rango más alto de medidas (a partir de 10 mm/h) y sin incluir los datos ingresandos "manuales".
+#### Usando los datos del rango más alto de medidas (a partir de 10 mm/h) y sin incluir los datos ingresandos "manuales".
 
 *Minutos lluvia:* **92**<br/>
 *Promedio:* **14.89 mm/h**<br/>
 *Milímetros:* **22.83**<br/>
 *Litros por metro cuadrado:* **22.83**
 
-##### Usando todos los datos incluyendo los datos ingresados "manualmente".
+#### Usando todos los datos incluyendo los datos ingresados "manualmente".
 
 *Minutos lluvia:* **146**<br/>
 *Promedio:* **14.43 mm/h**<br/>
 *Milímetros:* **35.12**<br/>
 *Litros por metro cuadrado:* **35.12**
 
-##### Usando los datos del rango más alto de medidas (a partir de 10 mm/h) e incluyendo los datos ingresados manualmente.
+#### Usando los datos del rango más alto de medidas (a partir de 10 mm/h) e incluyendo los datos ingresados manualmente.
 
 *Minutos lluvia:* **92**<br/>
 *Promedio:* **23.42 mm/h**<br/>
 *Milímetros:* **35.90**<br/>
 *Litros por metro cuadrado:* **35.90**
+
+De acuerdo con la siguiente tabla tuvimos lluvia fuerte y probablemente lluvias muy fuertes o torrenciales por momentos.
+
+![Ubicación estación meteorológica](./assets/tabla.jpg)
 
 ## Notas adicionales
 
@@ -69,6 +81,10 @@ Si alguien quiere ayudarnos a mejorar nuestros cálculos, bienvenido. Puede hace
 No olviden que pueden descargar Maclic siguiendo este enlace: [https://l.maclic.co/get](https://l.maclic.co/get). O pueden acceder a la versión Web: [https://web.maclic.co](https://web.maclic.co).
 
 ![Captura de pantalla de Maclic](./assets/maclic.jpeg)
+
+Además nuestra estación meteorológica se encuentra instalada actualmente en esta ubicación:
+
+![Ubicación estación](./assets/ubicacion.png)
 
 ### Fotos de los instrumentos de la estación
 
